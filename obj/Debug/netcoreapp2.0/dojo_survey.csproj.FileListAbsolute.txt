@@ -1,0 +1,10 @@
+C:\Users\eclai\Desktop\DojoAssignments\netCore\ASP.NET Core I\dojo_survey\bin\Debug\netcoreapp2.0\dojo_survey.deps.json
+C:\Users\eclai\Desktop\DojoAssignments\netCore\ASP.NET Core I\dojo_survey\bin\Debug\netcoreapp2.0\dojo_survey.runtimeconfig.json
+C:\Users\eclai\Desktop\DojoAssignments\netCore\ASP.NET Core I\dojo_survey\bin\Debug\netcoreapp2.0\dojo_survey.runtimeconfig.dev.json
+C:\Users\eclai\Desktop\DojoAssignments\netCore\ASP.NET Core I\dojo_survey\bin\Debug\netcoreapp2.0\dojo_survey.dll
+C:\Users\eclai\Desktop\DojoAssignments\netCore\ASP.NET Core I\dojo_survey\bin\Debug\netcoreapp2.0\dojo_survey.pdb
+C:\Users\eclai\Desktop\DojoAssignments\netCore\ASP.NET Core I\dojo_survey\obj\Debug\netcoreapp2.0\dojo_survey.csproj.CoreCompileInputs.cache
+C:\Users\eclai\Desktop\DojoAssignments\netCore\ASP.NET Core I\dojo_survey\obj\Debug\netcoreapp2.0\dojo_survey.AssemblyInfoInputs.cache
+C:\Users\eclai\Desktop\DojoAssignments\netCore\ASP.NET Core I\dojo_survey\obj\Debug\netcoreapp2.0\dojo_survey.AssemblyInfo.cs
+C:\Users\eclai\Desktop\DojoAssignments\netCore\ASP.NET Core I\dojo_survey\obj\Debug\netcoreapp2.0\dojo_survey.dll
+C:\Users\eclai\Desktop\DojoAssignments\netCore\ASP.NET Core I\dojo_survey\obj\Debug\netcoreapp2.0\dojo_survey.pdb
